@@ -5,7 +5,7 @@
 This small script replaces the default icon for atom and atom beta on MacOS.
 No symlinks, no special stuff. Should just work and if it doesn't file a PR.
 
-It out of frustration using the [atom icon replacement][1] project which
+It grew out of frustration using the [atom icon replacement][1] project which
 doesn't support Atom Beta and for some reason just messes things up for me.
 
 PR for Windows and Linux welcome - reviews will be opinionated.
