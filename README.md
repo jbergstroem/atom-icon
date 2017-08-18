@@ -2,11 +2,9 @@
 
 ![replacement icon](atom-new.png)
 
-This small script replaces the default icon for atom and atom beta on MacOS.
-No symlinks, no special stuff. Should just work and if it doesn't file a PR.
+This small script replaces the default icon for atom and atom beta on MacOS. No symlinks, no special stuff. Should just work and if it doesn't file a PR.
 
-It grew out of frustration using the [atom icon replacement][1] project which
-doesn't support Atom Beta and for some reason just messes things up for me.
+It grew out of frustration using the [atom icon replacement][1] project which doesn't support Atom Beta and for some reason just messes things up for me.
 
 PR for Windows and Linux welcome - reviews will be opinionated.
 
@@ -17,6 +15,7 @@ PR for Windows and Linux welcome - reviews will be opinionated.
 $ ./install.sh
 ```
 
+Note: you'll have to run this every time atom updates since the updated bundle contains the old icon.
 
 ## Copyright
 
